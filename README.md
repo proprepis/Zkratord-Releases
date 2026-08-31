@@ -4,7 +4,7 @@ Official public Windows binary releases of Zkratord. This repository intentional
 
 ## Download
 
-Download the complete [Zkratord v2.8.2 Windows package](https://github.com/proprepis/Zkratord-Releases/releases/download/v2.8.2/Zkratord-v2.8.2-windows-empty-libraries.zip). Extract the whole folder and start Launcher.exe. The individual EXE assets are provided for verification and advanced users, but the complete ZIP is the recommended download.
+Download the complete [Zkratord v2.8.3 Windows package](https://github.com/proprepis/Zkratord-Releases/releases/download/v2.8.3/Zkratord-v2.8.3-windows-empty-libraries.zip). Extract the whole folder and start Launcher.exe. The individual EXE assets are provided for verification and advanced users, but the complete ZIP is the recommended download.
 
 ## Empty vocabulary libraries
 
