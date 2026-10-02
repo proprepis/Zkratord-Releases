@@ -4,7 +4,7 @@ Official public Windows binary releases of Zkratord. This repository intentional
 
 ## Download
 
-Download [Zkratord v2.8.14](https://github.com/proprepis/Zkratord-Releases/releases/tag/v2.8.14). The release page provides one complete Windows ZIP with Launcher, Unified, Zkrat, and Database executables.
+Download [Zkratord v2.8.15](https://github.com/proprepis/Zkratord-Releases/releases/tag/v2.8.15). The release page provides one complete Windows ZIP with Launcher, Unified, Zkrat, and Database executables.
 
 ## Included autocorrections and empty templates
 
