@@ -4,9 +4,9 @@ Official public Windows binary releases of Zkratord. This repository intentional
 
 ## Download
 
-Download [Zkratord v2.8.19](https://github.com/proprepis/Zkratord-Releases/releases/tag/v2.8.19). The release page provides one complete Windows ZIP with Launcher, Unified, Zkrat, and Database executables.
+Download [Zkratord v2.8.20](https://github.com/proprepis/Zkratord-Releases/releases/tag/v2.8.20). The release page provides one complete Windows ZIP with Launcher, Unified, Zkrat, and Database executables.
 
-This update adds opt-in editor shortcuts in the Macros / Makra tab. They are off at each launch and can work alongside Unified.
+This update simplifies Unified to a single Start/Stop button and makes prepared texts easier to find under **List of abbreviations → Texts**. While Unified is running, press **F7** in your text editor to open the player.
 
 On first launch, choose the interface language, built-in autocorrections, and automatic sentence capitalization. The optional English/Czech beginner guide leads to creating a first short form and can be reopened later from Files.
 
