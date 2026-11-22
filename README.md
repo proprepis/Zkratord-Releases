@@ -4,9 +4,11 @@ Official public Windows binary releases of Zkratord. This repository intentional
 
 ## Download
 
-Download [Zkratord v2.8.20](https://github.com/proprepis/Zkratord-Releases/releases/tag/v2.8.20). The release page provides one complete Windows ZIP with Launcher, Unified, Zkrat, and Database executables.
+Download [Zkratord v2.8.26](https://github.com/proprepis/Zkratord-Releases/releases/tag/v2.8.26). The release page provides one complete Windows ZIP with Launcher, Unified, Zkrat, and Database executables.
 
-This update simplifies Unified to a single Start/Stop button and makes prepared texts easier to find under **List of abbreviations → Texts**. While Unified is running, press **F7** in your text editor to open the player.
+This update fixes automatic capitalization after suffix expansions and one-word sentences, including Text on Tap compatibility output. It also includes the current Shift-key overlap, chord, NumPad decimal and settings-save safeguards. Minimize the Launcher to its icon by the Windows clock; a red circled cross indicates that Unified is not armed.
+
+Unified uses a single Start/Stop button. Prepared texts are under **List of abbreviations → Texts**; while Unified is running, press **F7** in your text editor to open the player.
 
 On first launch, choose the interface language, built-in autocorrections, and automatic sentence capitalization. The optional English/Czech beginner guide leads to creating a first short form and can be reopened later from Files.
 
